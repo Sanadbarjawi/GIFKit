@@ -1,0 +1,6 @@
+framework module GIFKit {
+  umbrella header "GIFKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

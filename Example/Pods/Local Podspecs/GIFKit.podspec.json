@@ -1,0 +1,22 @@
+{
+  "name": "GIFKit",
+  "version": "0.1.0",
+  "summary": "A short description of GIFKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/uhive-genie9/GIFKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "uhive-genie9": "sanadbarj@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/uhive-genie9/GIFKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GIFKit/Classes/**/*"
+}

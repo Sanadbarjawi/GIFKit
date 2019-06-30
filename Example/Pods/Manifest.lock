@@ -1,0 +1,16 @@
+PODS:
+  - GIFKit (0.1.0)
+
+DEPENDENCIES:
+  - GIFKit (from `../`)
+
+EXTERNAL SOURCES:
+  GIFKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GIFKit: 8b58b52f37a2e6cc8612cc6986ffa11429a416f4
+
+PODFILE CHECKSUM: 447c3bbc231d723fddd6213af5a482b29f2a6add
+
+COCOAPODS: 1.6.1
