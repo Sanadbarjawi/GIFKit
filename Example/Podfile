@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GIFKit_Example' do
+  pod 'GIFKit', :path => '../'
+
+  target 'GIFKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
